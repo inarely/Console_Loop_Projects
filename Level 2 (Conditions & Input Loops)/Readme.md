@@ -44,3 +44,21 @@ After the loop ends, print the total sum.
 First read `N` — the number of integers to process.  
 Then read `N` integers and determine both the minimum and maximum value.  
 Print them in the format:
+min=... max=...
+
+---
+
+### 14. **Input Validation**
+Repeatedly request a number until the user enters a value in the range `[1; 10]`.  
+After a valid number is entered, print `OK` and the number.
+
+---
+
+## Learning Goals
+
+- Practice **conditional logic** inside loops.
+- Learn to use `break` to stop loops when needed.
+- Validate user input until it matches the requirements.
+- Work with accumulators (`sum`, `min`, `max`) efficiently.
+
+
